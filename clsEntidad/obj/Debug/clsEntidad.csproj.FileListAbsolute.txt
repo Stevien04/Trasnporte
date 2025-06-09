@@ -1,0 +1,24 @@
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\p2_ConEntidad\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.pdb
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.dll
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.pdb
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.dll
+C:\Users\hp\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.pdb
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.dll
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.pdb
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.AssemblyReference.cache
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.dll
+C:\Users\Stevie\Desktop\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\bin\Debug\clsEntidad.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PROYECTO II\reportes\PGII_CONTROL_DE_TRANSPORTE\clsEntidad\obj\Debug\clsEntidad.pdb

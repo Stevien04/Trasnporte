@@ -1,0 +1,1112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|c:\\users\\hp\\desktop\\pgii_control_de_transporte\\pgii_control_de_transporte\\frminspector\\frmeditarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmeditarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmeditarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmeditarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmhistorialinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmhistorialinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frminspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frminspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frminspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frminspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmagregarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmagregarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmagregarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmagregarinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuariomodificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmeditarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmeditaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmeditaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmagregaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmagregaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmeditarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmeditarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmagregarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmagregarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmeditarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmeditarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmagregarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmagregarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmagregarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmagregarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmeditarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmeditarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmeditarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmeditarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuarioadmincs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsdatos\\clsusuario_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|solutionrelative:clsdatos\\clsusuario_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmeditarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmeditarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsnegocio\\clsusuario_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|solutionrelative:clsnegocio\\clsusuario_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsnegocio\\clsreporte_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|solutionrelative:clsnegocio\\clsreporte_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsnegocio\\clsoperativo_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E98B776-0135-4FAA-B3DA-C78B2C9687D3}|clsNegocio\\clsNegocio.csproj|solutionrelative:clsnegocio\\clsoperativo_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmvehiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmvehiculos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmmultass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmmultass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmagregarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmagregarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsdatos\\clsinspectores_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|solutionrelative:clsdatos\\clsinspectores_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsdatos\\clsmultas_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|solutionrelative:clsdatos\\clsmultas_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmenusprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmenusprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmenusprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmenusprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmagregarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmagregarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmeditaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmeditaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsdatos\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|solutionrelative:clsdatos\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmeditarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmeditarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmusuarios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmusuarios\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E322711C-FCFA-4D40-97B3-A0D472C0B5A8}|clsEntidad\\clsEntidad.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsentidad\\clssesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E322711C-FCFA-4D40-97B3-A0D472C0B5A8}|clsEntidad\\clsEntidad.csproj|solutionrelative:clsentidad\\clssesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmagregarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmagregarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmeditarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmeditarvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmoperativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmoperativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmmulta\\frmagregarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmmulta\\frmagregarmultass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsdatos\\clsreporte_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C808AE0-9ED2-4366-B630-973B8674C923}|clsDatos\\clsDatos.csproj|solutionrelative:clsdatos\\clsreporte_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\reporte\\frmeditarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\reporte\\frmeditarreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmhistorialinspectorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmhistorialinspectorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmoperativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmoperativos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmoperativo\\frmagregaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmoperativo\\frmagregaroperativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmhistorialinspectorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmhistorialinspectorus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frminspector\\frmhistorialinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frminspector\\frmhistorialinspectores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmconductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\frmconductor\\frmagregarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\frmconductor\\frmagregarconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\pgii_control_de_transporte\\vehiculos\\frmvehiculos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BC775C38-5C58-459D-9497-229C2F7BF23C}|PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE.csproj|solutionrelative:pgii_control_de_transporte\\vehiculos\\frmvehiculos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEditarInspectores.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:59.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmInspectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:36.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInspectores.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmInspectores.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAIEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHistorialInspectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:01.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmEditarInspectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmEditarInspectores.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAgregarInspectores.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs*",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:50.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAgregarInspectores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmAgregarInspectores.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:47.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUsuarioModificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:01:11.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmUsuarioModificar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.Designer.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.Designer.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:08:53.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmUsuarioModificar.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioModificar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:04:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmEditarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:04:48.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmEditarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmEditarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:57:22.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmEditarOperativo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAgregarOperativo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:42.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmEditarReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:59:06.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmEditarVehiculos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:21:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAgregarVehiculos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:21:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAgregarVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmAgregarVehiculos.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAIAwwKcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:21:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAgregarReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:43:03.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmEditarMultass.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmEditarMultass.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmEditarMultass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:50:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmMultass.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:33.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmUsuarioAdmincs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.Designer.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.Designer.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.Designer.cs",
+              "ViewState": "AgIAAOQBAAAAAAAAAAAkwPkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:56:43.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmUsuarioAdmincs.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.resx",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.resx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.resx",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-04T06:13:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmUsuarioAdmincs.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:42:32.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmUsuarioAdmincs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuarioAdmincs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:42:32.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsUsuario_DB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsUsuario_DB.cs",
+              "RelativeDocumentMoniker": "clsDatos\\clsUsuario_DB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsUsuario_DB.cs",
+              "RelativeToolTip": "clsDatos\\clsUsuario_DB.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:56:15.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmEditarConductor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:53:00.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsUsuario_CN.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsUsuario_CN.cs",
+              "RelativeDocumentMoniker": "clsNegocio\\clsUsuario_CN.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsUsuario_CN.cs",
+              "RelativeToolTip": "clsNegocio\\clsUsuario_CN.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:56:50.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsReporte_CN.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsReporte_CN.cs",
+              "RelativeDocumentMoniker": "clsNegocio\\clsReporte_CN.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsReporte_CN.cs",
+              "RelativeToolTip": "clsNegocio\\clsReporte_CN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:40:02.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsOperativo_CN.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsOperativo_CN.cs",
+              "RelativeDocumentMoniker": "clsNegocio\\clsOperativo_CN.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsNegocio\\clsOperativo_CN.cs",
+              "RelativeToolTip": "clsNegocio\\clsOperativo_CN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T05:32:55.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:58:42.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA+wCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:38:22.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmVehiculos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.Designer.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.Designer.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.Designer.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAhwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:38:17.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmVehiculos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:38:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmMultass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.Designer.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.Designer.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.Designer.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAhwK8BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:14:32.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmMultass.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmMultass.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:34.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmAgregarConductor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:21.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmCrearCuenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:50:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "clsInspectores_DB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsInspectores_DB.cs",
+              "RelativeDocumentMoniker": "clsDatos\\clsInspectores_DB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsInspectores_DB.cs",
+              "RelativeToolTip": "clsDatos\\clsInspectores_DB.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:57:54.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "clsMultas_DB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsMultas_DB.cs",
+              "RelativeDocumentMoniker": "clsDatos\\clsMultas_DB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsMultas_DB.cs",
+              "RelativeToolTip": "clsDatos\\clsMultas_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:57:53.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmMenusPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:39:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:46:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmAcceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmAcceso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:46:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmCrearCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmCrearCuenta.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:16:36.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmMenusPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMenusPrincipal.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:36:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmAgregarReporte.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmAgregarReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:59:29.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FrmEditarOperativo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmEditarOperativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Program.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Program.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T04:32:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "clsConexion.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsConexion.cs",
+              "RelativeDocumentMoniker": "clsDatos\\clsConexion.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsConexion.cs",
+              "RelativeToolTip": "clsDatos\\clsConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:35:46.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmEditarConductor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmEditarConductor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:53:02.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmUsuarios\\FrmUsuario.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:50:45.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmConductores.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAawFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:38.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "clsSesion.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsEntidad\\clsSesion.cs",
+              "RelativeDocumentMoniker": "clsEntidad\\clsSesion.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsEntidad\\clsSesion.cs",
+              "RelativeToolTip": "clsEntidad\\clsSesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:45:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmAgregarMultass.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FrmEditarVehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmEditarVehiculos.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:43:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmOperativos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:57:01.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmAgregarMultass.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmMulta\\FrmAgregarMultass.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAmwK8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:51.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FrmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmReportes.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:58:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "clsReporte_DB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsReporte_DB.cs",
+              "RelativeDocumentMoniker": "clsDatos\\clsReporte_DB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\clsDatos\\clsReporte_DB.cs",
+              "RelativeToolTip": "clsDatos\\clsReporte_DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:39:53.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FrmEditarReporte.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Reporte\\FrmEditarReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:59:07.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FrmHistorialInspectorUs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:23.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FrmOperativos.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmOperativos.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:57:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FrmAgregarOperativo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmOperativo\\FrmAgregarOperativo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwK4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:56:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FrmHistorialInspectorUs.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectorUs.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:24.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FrmHistorialInspectores.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmInspector\\FrmHistorialInspectores.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:55:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FrmConductores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmConductores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:35.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FrmAgregarConductor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\FrmConductor\\FrmAgregarConductor.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwL0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:41:22.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FrmVehiculos.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.resx",
+              "RelativeDocumentMoniker": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.resx",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\PGII_CONTROL_DE_TRANSPORTE\\PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.resx",
+              "RelativeToolTip": "PGII_CONTROL_DE_TRANSPORTE\\Vehiculos\\FrmVehiculos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T00:38:19.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BC775C38-5C58-459D-9497-229C2F7BF23C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PGII_CONTROL_DE_TRANSPORTE</RootNamespace>
+    <AssemblyName>PGII_CONTROL_DE_TRANSPORTE</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAcceso.Designer.cs">
+      <DependentUpon>FrmAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConductor\FrmConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConductor\FrmConductores.Designer.cs">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConductor\FrmAgregarConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConductor\FrmAgregarConductor.Designer.cs">
+      <DependentUpon>FrmAgregarConductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConductor\FrmEditarConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConductor\FrmEditarConductor.Designer.cs">
+      <DependentUpon>FrmEditarConductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCrearCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCrearCuenta.Designer.cs">
+      <DependentUpon>FrmCrearCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInspector\FrmAgregarInspectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInspector\FrmAgregarInspectores.Designer.cs">
+      <DependentUpon>FrmAgregarInspectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInspector\FrmEditarInspectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInspector\FrmEditarInspectores.Designer.cs">
+      <DependentUpon>FrmEditarInspectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInspector\FrmHistorialInspectorUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInspector\FrmHistorialInspectorUs.Designer.cs">
+      <DependentUpon>FrmHistorialInspectorUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInspector\FrmInspectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInspector\FrmInspectores.Designer.cs">
+      <DependentUpon>FrmInspectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInspector\FrmHistorialInspectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInspector\FrmHistorialInspectores.Designer.cs">
+      <DependentUpon>FrmHistorialInspectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenusPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenusPrincipal.Designer.cs">
+      <DependentUpon>FrmMenusPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMulta\FrmAgregarMultass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMulta\FrmAgregarMultass.Designer.cs">
+      <DependentUpon>FrmAgregarMultass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMulta\FrmEditarMultass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMulta\FrmEditarMultass.Designer.cs">
+      <DependentUpon>FrmEditarMultass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMulta\FrmMultass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMulta\FrmMultass.Designer.cs">
+      <DependentUpon>FrmMultass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmAgregarOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmAgregarOperativo.Designer.cs">
+      <DependentUpon>FrmAgregarOperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmEditarOperativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmEditarOperativo.Designer.cs">
+      <DependentUpon>FrmEditarOperativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmOperativos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOperativo\FrmOperativos.Designer.cs">
+      <DependentUpon>FrmOperativos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuarioModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuarioModificar.Designer.cs">
+      <DependentUpon>FrmUsuarioModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\FrmAgregarReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\FrmAgregarReporte.Designer.cs">
+      <DependentUpon>FrmAgregarReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\FrmEditarReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\FrmEditarReporte.Designer.cs">
+      <DependentUpon>FrmEditarReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte\FrmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte\FrmReportes.Designer.cs">
+      <DependentUpon>FrmReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSoporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSoporte.Designer.cs">
+      <DependentUpon>FrmSoporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmEditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmEditarUsuario.Designer.cs">
+      <DependentUpon>FrmEditarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuarioAdmincs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarios\FrmUsuarioAdmincs.Designer.cs">
+      <DependentUpon>FrmUsuarioAdmincs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehiculos\FrmAgregarVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehiculos\FrmAgregarVehiculos.Designer.cs">
+      <DependentUpon>FrmAgregarVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehiculos\FrmEditarVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehiculos\FrmEditarVehiculos.Designer.cs">
+      <DependentUpon>FrmEditarVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehiculos\FrmVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehiculos\FrmVehiculos.Designer.cs">
+      <DependentUpon>FrmVehiculos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmAcceso.resx">
+      <DependentUpon>FrmAcceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConductor\FrmConductores.resx">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConductor\FrmAgregarConductor.resx">
+      <DependentUpon>FrmAgregarConductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConductor\FrmEditarConductor.resx">
+      <DependentUpon>FrmEditarConductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCrearCuenta.resx">
+      <DependentUpon>FrmCrearCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInspector\FrmAgregarInspectores.resx">
+      <DependentUpon>FrmAgregarInspectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInspector\FrmEditarInspectores.resx">
+      <DependentUpon>FrmEditarInspectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInspector\FrmHistorialInspectorUs.resx">
+      <DependentUpon>FrmHistorialInspectorUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInspector\FrmInspectores.resx">
+      <DependentUpon>FrmInspectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInspector\FrmHistorialInspectores.resx">
+      <DependentUpon>FrmHistorialInspectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenusPrincipal.resx">
+      <DependentUpon>FrmMenusPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMulta\FrmAgregarMultass.resx">
+      <DependentUpon>FrmAgregarMultass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMulta\FrmEditarMultass.resx">
+      <DependentUpon>FrmEditarMultass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMulta\FrmMultass.resx">
+      <DependentUpon>FrmMultass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperativo\FrmAgregarOperativo.resx">
+      <DependentUpon>FrmAgregarOperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperativo\FrmEditarOperativo.resx">
+      <DependentUpon>FrmEditarOperativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOperativo\FrmOperativos.resx">
+      <DependentUpon>FrmOperativos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios\FrmUsuarioModificar.resx">
+      <DependentUpon>FrmUsuarioModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\FrmAgregarReporte.resx">
+      <DependentUpon>FrmAgregarReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\FrmEditarReporte.resx">
+      <DependentUpon>FrmEditarReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte\FrmReportes.resx">
+      <DependentUpon>FrmReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSoporte.resx">
+      <DependentUpon>FrmSoporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios\FrmEditarUsuario.resx">
+      <DependentUpon>FrmEditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios\FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarios\FrmUsuarioAdmincs.resx">
+      <DependentUpon>FrmUsuarioAdmincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vehiculos\FrmAgregarVehiculos.resx">
+      <DependentUpon>FrmAgregarVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehiculos\FrmEditarVehiculos.resx">
+      <DependentUpon>FrmEditarVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehiculos\FrmVehiculos.resx">
+      <DependentUpon>FrmVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloquear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\captcha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nueva-cuenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\centro-de-llamadas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frm_CAPTURA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoTrasporte-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa-silueta-negra-sin-puerta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conduccion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coche.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\operativos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analitica-de-datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inspector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar-sesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\clsEntidad\clsEntidad.csproj">
+      <Project>{e322711c-fcfa-4d40-97b3-a0d472c0b5a8}</Project>
+      <Name>clsEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\clsNegocio\clsNegocio.csproj">
+      <Project>{4e98b776-0135-4faa-b3da-c78b2c9687d3}</Project>
+      <Name>clsNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telefono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cargo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\llave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tarjeta-de-identificacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\insignia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Universidad-Privada-de-Tacna-UPT.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
